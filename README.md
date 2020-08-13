@@ -1,5 +1,5 @@
 ![alt text](https://github.com/cKauan/Dropbox-UI/blob/master/github/pc-1.jpeg)
-#  <img src="https://image.flaticon.com/icons/svg/873/873113.svg" alt="react" width="20" height="20"/> Dropbox UI
+#  <img src="https://image.flaticon.com/icons/svg/873/873113.svg" alt="react" width="40" height="40"/> Dropbox UI
 
 Mini-Projeto Clonando a Interface do Dropbox.
 
