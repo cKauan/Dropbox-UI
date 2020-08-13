@@ -1,5 +1,6 @@
 ![alt text](https://github.com/cKauan/Dropbox-UI/blob/master/github/pc-1.jpeg)
-# :rocket: Dropbox UI
+#  <img src="https://image.flaticon.com/icons/svg/873/873113.svg" alt="react" width="20" height="20"/> Dropbox UI
+
 Mini-Projeto Clonando a Interface do Dropbox.
 
 ## :closed_book: Uso
